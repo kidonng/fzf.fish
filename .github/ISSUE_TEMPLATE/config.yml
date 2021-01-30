@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name:  ❔ Ask a question
+    url: https://github.com/PatrickF1/fzf.fish/discussions/new
+    about: Get help with using the plugin
+  - name: 💡 Idea
+    url: https://github.com/PatrickF1/fzf.fish/discussions/new
+    about: Suggest a new feature or an improvement to existing features
